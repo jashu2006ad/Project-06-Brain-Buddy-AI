@@ -1,4 +1,4 @@
-# AICollege Companion
+# A ICollege Companion
 
 Flutter foundation for an offline-first college planner and Gemini-powered study companion.
 
