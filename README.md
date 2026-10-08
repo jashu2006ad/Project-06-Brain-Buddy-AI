@@ -1,4 +1,4 @@
-# AI College Companion
+# AI CollegeCompanion
 2. Register Android (`com.aicollegecompanion.ai_college_companion`), iOS, web, macOS, and Windows apps as applicable. Firebase does not have first-party Linux support; Linux uses the configured web/API path when Firebase-backed features are added.
 Flutter foundation for an offline-first college planner and Gemini-powered study companion.
 
